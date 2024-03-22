@@ -20,8 +20,18 @@ Além disso, o aplicativo permite que os usuários façam reservas de quartos di
 
 <p>O painel de administração do aplicativo de reservas de hotel oferece controle total sobre o sistema. Os administradores podem gerenciar usuários, adicionar e editar informações de hotéis e quartos, além de acompanhar as reservas feitas pelos usuários. Essa ferramenta simplifica e agiliza a gestão do aplicativo, garantindo uma operação eficiente e personalizada.</p>
 
-##Pré-requisitos
-Antes de prosseguir com a instalação e execução do projeto, você precisa garantir que algumas configurações estejam feitas em sua máquina.
+<h1> Pré requisitos </h1>
+
+Para executar o projeto e ter acesso ao painel de administração, siga os seguintes passos:
+
+Certifique-se de ter todas as variáveis de ambiente configuradas corretamente.
+Execute o servidor.
+Utilize Postman, Insomnia ou ferramenta similar para fazer uma requisição POST para a rota ```
+ POST 'http://localhost:PORT/api/auth/register'```
+ 
+No corpo da requisição, adicione os campos ```username, email e password```
+Após criar o usuário, acesse o MongoDB e defina o campo isAdmin como true para ter acesso ao painel administrativo.
+
 
 1. Variáveis de Ambiente
 Certifique-se de criar duas variáveis de ambiente:
@@ -40,19 +50,6 @@ bash
 Copy code
 npm -v
 Isso exibirá a versão atual do NPM instalada em seu sistema. Se o comando retornar a versão do NPM, significa que a instalação foi bem-sucedida e você está pronto para começar a usar o NPM.
-
-
-<h1> Pré requisitos </h1>
-
-Para executar o projeto e ter acesso ao painel de administração, siga os seguintes passos:
-
-Certifique-se de ter todas as variáveis de ambiente configuradas corretamente.
-Execute o servidor.
-Utilize Postman, Insomnia ou ferramenta similar para fazer uma requisição POST para a rota ```
- POST 'http://localhost:PORT/api/auth/register'```
- 
-No corpo da requisição, adicione os campos ```username, email e password```
-Após criar o usuário, acesse o MongoDB e defina o campo isAdmin como true para ter acesso ao painel administrativo.
 
 ## 🚀 Tecnologias e bibliotecas
 
