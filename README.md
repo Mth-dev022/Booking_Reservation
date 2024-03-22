@@ -43,15 +43,7 @@ Token JWT: Substitua esta variável pelo seu token JWT para autenticação.
 2. Instalação do Node.js e NPM
 Certifique-se de ter o Node.js instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM. Você pode baixar o Node.js no site oficial do Node.js. Siga as instruções de instalação apropriadas para o seu sistema operacional.
 
-3. Verificando a Instalação do NPM
-Após instalar o Node.js, verifique se o NPM está instalado corretamente digitando o seguinte comando no seu terminal ou prompt de comando:
-
-bash
-Copy code
-npm -v
-Isso exibirá a versão atual do NPM instalada em seu sistema. Se o comando retornar a versão do NPM, significa que a instalação foi bem-sucedida e você está pronto para começar a usar o NPM.
-
-## 🚀 Tecnologias e bibliotecas
+# 🚀 Tecnologias e bibliotecas
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
