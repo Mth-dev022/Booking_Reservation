@@ -42,17 +42,17 @@ npm -v
 Isso exibirá a versão atual do NPM instalada em seu sistema. Se o comando retornar a versão do NPM, significa que a instalação foi bem-sucedida e você está pronto para começar a usar o NPM.
 
 
-Executando o Projeto
+<h1> Pré requisitos </h1>
+
 Para executar o projeto e ter acesso ao painel de administração, siga os seguintes passos:
 
 Certifique-se de ter todas as variáveis de ambiente configuradas corretamente.
 Execute o servidor.
-Utilize Postman, Insomnia ou ferramenta similar para fazer uma requisição POST para a rota ```bash
+Utilize Postman, Insomnia ou ferramenta similar para fazer uma requisição POST para a rota ```
  POST 'http://localhost:PORT/api/auth/register'```
  
-No corpo da requisição, adicione os campos username, email e password.
+No corpo da requisição, adicione os campos ```username, email e password```
 Após criar o usuário, acesse o MongoDB e defina o campo isAdmin como true para ter acesso ao painel administrativo.
-
 
 ## 🚀 Tecnologias e bibliotecas
 
