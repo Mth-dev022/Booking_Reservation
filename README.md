@@ -2,6 +2,6 @@
 <br>
 <p align="center">
     
-<img src="admin.gif">
+<img src="images/admin.gif">
 
 </p>
