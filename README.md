@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">    
-    <img src="images/booking.gif">
+    <img src="images/admin.gif">
 </p>
 
 #  📝 Descrição do projeto
