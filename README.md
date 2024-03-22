@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">    
-    <img width="100%" src="images/booking.gif">
+    <img width="100%" src="images/booking.png">
 </p>
 
 #  📝 Descrição do projeto
