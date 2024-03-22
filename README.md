@@ -20,7 +20,7 @@ Além disso, o aplicativo permite que os usuários façam reservas de quartos di
 
 <p>O painel de administração do aplicativo de reservas de hotel oferece controle total sobre o sistema. Os administradores podem gerenciar usuários, adicionar e editar informações de hotéis e quartos, além de acompanhar as reservas feitas pelos usuários. Essa ferramenta simplifica e agiliza a gestão do aplicativo, garantindo uma operação eficiente e personalizada.</p>
 
-<h1> Pré requisitos </h1>
+<h1> Como rodar o projeto ? </h1>
 
 Para executar o projeto e ter acesso ao painel de administração, siga os seguintes passos:
 
