@@ -52,8 +52,8 @@ Front-end
 - Axios
 - Sass
 - React-router-dom
-- Icons-material
-- x-data-grid
+- @mui/icons-material
+- @mui/x-data-grid
 - Recharts
 - react-circular-progressbar
 
@@ -68,6 +68,3 @@ Back-end
 
 Banco de dados: <br>
 -MongoDB
-
-
-
