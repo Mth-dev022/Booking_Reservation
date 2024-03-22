@@ -24,6 +24,9 @@ Além disso, o aplicativo permite que os usuários façam reservas de quartos di
 
 Para executar o projeto e ter acesso ao painel de administração, siga os seguintes passos:
 
+Instalação do Node.js e NPM
+Certifique-se de ter o Node.js instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM. Você pode baixar o Node.js no site oficial do Node.js. Siga as instruções de instalação apropriadas para o seu sistema operacional.
+
 Certifique-se de ter todas as variáveis de ambiente configuradas corretamente.
 Execute o servidor.
 Utilize Postman, Insomnia ou ferramenta similar para fazer uma requisição POST para a rota ```
@@ -39,9 +42,6 @@ Certifique-se de criar duas variáveis de ambiente:
 STRING DE CONEXÃO COM O MONGODB: Substitua esta variável pelo endereço de conexão com o seu banco de dados MongoDB.
 
 Token JWT: Substitua esta variável pelo seu token JWT para autenticação.
-
-Instalação do Node.js e NPM
-Certifique-se de ter o Node.js instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM. Você pode baixar o Node.js no site oficial do Node.js. Siga as instruções de instalação apropriadas para o seu sistema operacional.
 
 # 🚀 Tecnologias e bibliotecas
 
