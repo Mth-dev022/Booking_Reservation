@@ -20,4 +20,31 @@ Além disso, o aplicativo permite que os usuários façam reservas de quartos di
 
 <p>O painel de administração do aplicativo de reservas de hotel oferece controle total sobre o sistema. Os administradores podem gerenciar usuários, adicionar e editar informações de hotéis e quartos, além de acompanhar as reservas feitas pelos usuários. Essa ferramenta simplifica e agiliza a gestão do aplicativo, garantindo uma operação eficiente e personalizada.</p>
 
+## 🚀 Tecnologias e bibliotecas
+
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+
+Front-end
+- React.JS
+- Axios
+- Sass
+- React-router-dom
+- Icons-material
+- x-data-grid
+- Recharts
+- react-circular-progressbar
+
+Back-end
+- NodeJS
+- Express
+- Nodemon
+- Bcrypt
+- Cookie-parser
+- Json Web Token
+- mongoose
+
+Banco de dados: <br><br>
+-MongoDB
+
+
 
