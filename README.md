@@ -12,7 +12,9 @@
 Além disso, o aplicativo permite que os usuários façam reservas de quartos diretamente, com o custo total calculado automaticamente com base no número de dias e tipo de quarto selecionado. Para os administradores, há um painel de controle onde podem gerenciar usuários, hotéis e quartos, adicionando novas propriedades, definindo preços e monitorando as reservas.
 </p>
 
-<h1> Painel Administrador </h1>
+<br>
+
+<h1 align="center"> Painel Administrador </h1>
 
 <img src="images/admin_home.png">
 
