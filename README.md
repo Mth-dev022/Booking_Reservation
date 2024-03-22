@@ -27,20 +27,20 @@ Para executar o projeto e ter acesso ao painel de administração, siga os segui
 Certifique-se de ter todas as variáveis de ambiente configuradas corretamente.
 Execute o servidor.
 Utilize Postman, Insomnia ou ferramenta similar para fazer uma requisição POST para a rota ```
- POST 'http://localhost:PORT/api/auth/register'```
+  'http://localhost:PORT/api/auth/register'```
  
 No corpo da requisição, adicione os campos ```username, email e password```
 Após criar o usuário, acesse o MongoDB e defina o campo isAdmin como true para ter acesso ao painel administrativo.
 
 
-1. Variáveis de Ambiente
+Variáveis de Ambiente
 Certifique-se de criar duas variáveis de ambiente:
 
 STRING DE CONEXÃO COM O MONGODB: Substitua esta variável pelo endereço de conexão com o seu banco de dados MongoDB.
 
 Token JWT: Substitua esta variável pelo seu token JWT para autenticação.
 
-2. Instalação do Node.js e NPM
+Instalação do Node.js e NPM
 Certifique-se de ter o Node.js instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM. Você pode baixar o Node.js no site oficial do Node.js. Siga as instruções de instalação apropriadas para o seu sistema operacional.
 
 # 🚀 Tecnologias e bibliotecas
