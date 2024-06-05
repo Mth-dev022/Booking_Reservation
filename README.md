@@ -25,7 +25,7 @@ Além disso, o aplicativo permite que os usuários façam reservas de quartos di
 Para executar o projeto e ter acesso ao painel de administração, siga os seguintes passos:
 
 Instalação do Node.js e NPM
-Certifique-se de ter o Node.js instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM. Você pode baixar o Node.js no site oficial do Node.js. Siga as instruções de instalação apropriadas para o seu sistema operacional
+Certifique-se de ter o Node.js instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM. Você pode baixar o Node.js no site oficial do Node.js. Siga as instruções de instalação apropriadas para o seu sistema operacional.
 
 Certifique-se de ter todas as variáveis de ambiente configuradas corretamente.
 Execute o servidor.
