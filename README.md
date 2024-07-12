@@ -5,7 +5,7 @@
     <img width="100%" src="images/booking.png">
 </p>
 
-#  📝 Descrição do projeto
+#  📝 Descrição do projet
 <p>
     O aplicativo de reservas de hotel oferece uma plataforma simples e segura para encontrar e reservar acomodações em várias cidades. Com ele, os usuários podem selecionar o destino desejado e as datas da estadia, visualizar uma lista de hotéis disponíveis e comparar comodidades e preços antes de fazer sua escolha.
 
